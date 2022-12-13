@@ -1,9 +1,9 @@
 {
-  "name": "@dyrkow/editor-config",
-  "version": "1.0.0",
-  "main": "index.js",
-  "scripts": {
-    "postinstall": "cp .editorconfig $INIT_CWD"
-  },
-  "license": "MIT"
+    "name": "@dyrkow/editor-config",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "postinstall": "cp .editorconfig $INIT_CWD"
+    },
+    "license": "MIT"
 }
