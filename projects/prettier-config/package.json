@@ -2,15 +2,11 @@
     "name": "@dyrkow/prettier-config",
     "version": "1.0.0",
     "main": "index.json",
-    "author": "Dyrkow Andrew",
     "license": "MIT",
     "devDependencies": {
         "@dyrkow/editor-config": "1.0.0"
     },
     "peerDependencies": {
         "prettier": "^2.5.1"
-    },
-    "dependencies": {
-        "eslint-config-prettier": "^8.5.0"
     }
 }
