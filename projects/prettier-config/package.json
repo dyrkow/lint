@@ -1,0 +1,8 @@
+{
+  "name": "@dyrkow/prettier-config",
+  "version": "1.0.0",
+  "main": "index.json",
+  "author": "Dyrkow Andrew",
+  "license": "MIT",
+  "private": true
+}
