@@ -4,5 +4,10 @@
   "main": "index.json",
   "author": "Dyrkow Andrew",
   "license": "MIT",
-  "private": true
+  "peerDependencies": {
+    "prettier": "^2.5.1"
+  },
+  "dependencies": {
+    "eslint-config-prettier": "^8.5.0"
+  }
 }
