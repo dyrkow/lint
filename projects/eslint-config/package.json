@@ -1,0 +1,13 @@
+{
+    "name": "@dyrkow/eslint-config",
+    "version": "1.0.0",
+    "description": "eslint configuration",
+    "main": "index.js",
+    "peerDependencies": {
+        "eslint": "^8.25.0"
+    },
+    "devDependencies": {
+        "@dyrkow/editor-config": "1.0.0"
+    },
+    "license": "MIT"
+}
