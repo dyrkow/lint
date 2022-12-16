@@ -2,9 +2,6 @@
   "name": "dyrkow",
   "version": "1.0.0",
   "main": "index.js",
-  "workspaces": [
-    "projects/*"
-  ],
   "repository": "git@github.com:dyrkow/lint.git",
   "author": "dyrkow <webworkdeveloper@gmail.com>",
   "license": "MIT",
