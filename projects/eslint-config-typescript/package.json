@@ -1,0 +1,16 @@
+{
+    "name": "@dyrkow/eslint-config-typescript",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "devDependencies": {
+        "@dyrkow/editor-config": "1.0.0"
+    },
+    "dependencies": {
+        "@typescript-eslint/parser": "^5.46.1",
+        "@typescript-eslint/eslint-plugin": "^5.46.1"
+    },
+    "peerDependencies": {
+        "typescript": "^4.9.4"
+    }
+}
