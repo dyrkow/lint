@@ -1,0 +1,7 @@
+db:
+    redis:
+        host: ${REDIS_HOST}
+        port: ${REDIS_PORT}
+        db: ${REDIS_DB}
+        username: ${REDIS_USER_NAME}
+        password: ${REDIS_PASSWORD}
