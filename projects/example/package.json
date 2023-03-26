@@ -13,8 +13,8 @@
     "license": "MIT",
     "devDependencies": {
         "@dyrkow/editor-config": "1.0.0",
-        "@dyrkow/eslint-config": "1.0.1",
-        "@dyrkow/eslint-config-typescript": "1.0.0",
+        "@dyrkow/eslint-config": "1.0.2",
+        "@dyrkow/eslint-config-typescript": "1.0.1",
         "@dyrkow/prettier-config": "1.0.0",
         "eslint": "^8.0.1",
         "prettier": "^2.8.1",

@@ -16,12 +16,12 @@ console.log('hello');
 export class Hello {
     private _name: string;
 
-    constructor(name: string) {
-        this._name = name;
-    }
-
     public use(): void {
         console.log(this._name);
+    }
+
+    constructor(name: string) {
+        this._name = name;
     }
 }
 
