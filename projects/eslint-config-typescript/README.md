@@ -3,7 +3,7 @@
 ## Setup
 
 ```
-yarn add @dyrkov/eslint-config-example -D
+yarn add @dyrkow/eslint-config-typescript -D
 ```
 
 ## Usage
