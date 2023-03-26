@@ -1,12 +1,14 @@
-# Eslint
+# @dyrkow/eslint-cofnig
 
-My custom eslint configuration
+## Setup
+
+```
+yarn add eslint @dyrkow/eslint-config -D
+```
 
 ## Usage
 
-1. Add to your project `yarn add @dyrkow/eslint-config`
-2. Extends in `.eslintrc`
-
+Add this lines to your `.eslintrc`
 ```
 {
     "extends": ["@dyrkov"]

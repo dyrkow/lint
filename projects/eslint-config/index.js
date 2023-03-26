@@ -13,11 +13,9 @@ module.exports = {
         sourceType: "module",
         ecmaFeatures: {
             modules: true,
-            // jsx: true, // TODO: по идее это надо включать в настройках для реакта
         },
     },
 
-    // Rules
     rules: {
         "array-callback-return": ["error"],
         "constructor-super": ["error"],

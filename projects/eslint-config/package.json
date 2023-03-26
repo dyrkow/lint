@@ -1,7 +1,7 @@
 {
     "name": "@dyrkow/eslint-config",
-    "version": "1.0.0",
-    "description": "eslint configuration",
+    "version": "1.0.1",
+    "description": "Shared eslint config",
     "main": "index.js",
     "peerDependencies": {
         "eslint": "^8.25.0"
@@ -9,5 +9,12 @@
     "devDependencies": {
         "@dyrkow/editor-config": "1.0.0"
     },
-    "license": "MIT"
+    "license": "MIT",
+    "repository": "https://github.com/dyrkow/lint.git",
+    "author": "dyrkow <webworkdeveloper@gmail.com> (dyrkow.ru)",
+    "keywords": [
+        "config",
+        "eslint",
+        "dyrkow"
+    ]
 }
