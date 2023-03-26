@@ -8,10 +8,4 @@ yarn add prettier @dyrkow/prettier-config -D
 
 ## Usage
 
-Add file `.prettierrc` to you project
-
-With content
-
-```
-"@dyrkow/prettier-config"
-```
+Package automatically add `.prettierrc` file to your project
