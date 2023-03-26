@@ -6,6 +6,7 @@
     "private": true,
     "scripts": {
         "build": "tsc --project ./tsconfig.json",
+        "format": "prettier-eslint \"src/**/*.ts\"",
         "lint": "eslint ./src",
         "fix": "eslint --fix ./src"
     },
@@ -13,9 +14,11 @@
     "devDependencies": {
         "@dyrkow/editor-config": "1.0.0",
         "@dyrkow/eslint-config": "1.0.1",
+        "@dyrkow/eslint-config-typescript": "1.0.0",
         "@dyrkow/prettier-config": "1.0.0",
         "eslint": "^8.0.1",
         "prettier": "^2.8.1",
+        "prettier-eslint-cli": "^7.1.0",
         "typescript": "^5.0.2"
     },
     "dependencies": {

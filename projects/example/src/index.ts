@@ -1,13 +1,27 @@
 const s = message => (message ? (true ? console.log(message) : false) : false);
 
-console.log("hello")
+import type { User } from './types';
+
+hello('');
+
+export type s = {
+    [key: string]: User;
+};
+
+export type S = Record<string, User>;
+
+console.log('hello');
 console.log('hello');
 
-class Hello {
-    get name() {}
+export class Hello {
+    private _name: string;
 
-    set name(value) {
-        this._name = value;
+    constructor(name: string) {
+        this._name = name;
+    }
+
+    public use(): void {
+        console.log(this._name);
     }
 }
 
