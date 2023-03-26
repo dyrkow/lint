@@ -1,9 +1,18 @@
 {
     "name": "@dyrkow/editor-config",
     "version": "1.0.0",
-    "main": "index.js",
+    "private": false,
+    "description": "Shared editor config",
     "scripts": {
-        "postinstall": "cp .editorconfig $INIT_CWD"
+        "postinstall": "cp .editorconfig $INIT_CWD",
+        "test": "echo 'No test specified'"
     },
-    "license": "MIT"
+    "license": "MIT",
+    "repository": "https://github.com/dyrkow/lint.git",
+    "author": "Dyrkow Andrew <webworkdeveloper@gmail.com> (dyrkow.ru)",
+    "keywords": [
+        "config",
+        "editorconfig",
+        "dyrkow"
+    ]
 }
