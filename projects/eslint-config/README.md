@@ -8,9 +8,9 @@ yarn add eslint @dyrkow/eslint-config -D
 
 ## Usage
 
-Add this lines to your `.eslintrc`
+Add this lines to your `.eslintrc.json`
 ```
 {
-    "extends": ["@dyrkov"]
+    "extends": ["@dyrkow"]
 }
 ```
