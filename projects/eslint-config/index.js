@@ -149,7 +149,7 @@ module.exports = {
         yoda: ["error"],
 
         // Layout & Formatting
-        "array-bracket-newline": ["error", { minItems: 4 }],
+        "array-bracket-newline": ["error", "consistent"],
         "array-bracket-spacing": ["error", "never"],
         "arrow-parens": ["error", "as-needed"],
         "arrow-spacing": ["error"],
