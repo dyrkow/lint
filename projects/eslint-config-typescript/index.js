@@ -13,7 +13,7 @@ module.exports = {
         "@typescript-eslint/consistent-generic-constructors": "error",
         "@typescript-eslint/consistent-indexed-object-style": "error",
         // "@typescript-eslint/explicit-function-return-type": "error", // тоже бесит
-        "@typescript-eslint/no-unsafe-assignment": "never", // бесит
+        "@typescript-eslint/no-unsafe-assignment": 0, // бесит
         "@typescript-eslint/member-ordering": [
             "error",
             {
