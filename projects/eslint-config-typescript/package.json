@@ -1,6 +1,6 @@
 {
     "name": "@dyrkow/eslint-config-typescript",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "main": "index.js",
     "description": "Shared tslint config",
     "devDependencies": {

@@ -12,6 +12,7 @@ module.exports = {
         "@typescript-eslint/array-type": "error",
         "@typescript-eslint/consistent-generic-constructors": "error",
         "@typescript-eslint/consistent-indexed-object-style": "error",
+        "@typescript-eslint/no-empty-function": 0, // Нужно иногда чтобы было без тела
         // "@typescript-eslint/explicit-function-return-type": "error", // тоже бесит
         "@typescript-eslint/no-unsafe-assignment": 0, // бесит
         "@typescript-eslint/no-unsafe-call": 0, // бесит
