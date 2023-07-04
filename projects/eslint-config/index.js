@@ -167,10 +167,10 @@ module.exports = {
         "linebreak-style": ["error", "unix"],
         "lines-around-comment": [
             "error",
-            { beforeBlockComment: true, beforeLineComment: true },
+            { beforeBlockComment: true, beforeLineComment: false },
         ],
         "lines-between-class-members": ["error", "always"],
-        "max-len": ["error", { code: 200, comments: 80 }],
+        "max-len": ["error", { code: 200, comments: 200 }],
         "multiline-ternary": ["error"],
         "newline-per-chained-call": ["error", { ignoreChainWithDepth: 2 }],
         "no-mixed-spaces-and-tabs": ["error"],
