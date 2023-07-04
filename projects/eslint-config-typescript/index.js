@@ -16,6 +16,7 @@ module.exports = {
         // "@typescript-eslint/explicit-function-return-type": "error", // тоже бесит
         "@typescript-eslint/no-unsafe-assignment": 0, // бесит
         "@typescript-eslint/no-unsafe-call": 0, // бесит
+        "@typescript-eslint/no-unsafe-return": 0, // Не дает нормально жить
         "@typescript-eslint/member-ordering": [
             "error",
             {
