@@ -3,9 +3,6 @@
     "version": "1.0.0",
     "description": "Shared prettier config",
     "main": "index.json",
-    "scripts": {
-        "test": "echo 'No test specified'"
-    },
     "license": "MIT",
     "repository": "https://github.com/dyrkow/lint.git",
     "author": "dyrkow <webworkdeveloper@gmail.com> (dyrkow.ru)",
