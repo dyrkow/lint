@@ -1,9 +1,9 @@
 {
-    "name": "@dyrkow/eslint-config-react",
-    "version": "1.0.0",
-    "main": "index.js",
-    "license": "MIT",
-    "peerDependencies": {
-        "eslint": "^7.31.0"
-    }
+  "name": "@dyrkow/eslint-config-react",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "peerDependencies": {
+    "eslint": "^7.31.0"
+  }
 }

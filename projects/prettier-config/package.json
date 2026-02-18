@@ -1,17 +1,17 @@
 {
-    "name": "@dyrkow/prettier-config",
-    "version": "1.0.0",
-    "description": "Shared prettier config",
-    "main": "index.json",
-    "license": "MIT",
-    "repository": "https://github.com/dyrkow/lint.git",
-    "author": "dyrkow <webworkdeveloper@gmail.com> (dyrkow.ru)",
-    "peerDependencies": {
-        "prettier": "^2.5.1"
-    },
-    "keywords": [
-        "config",
-        "prettier",
-        "dyrkow"
-    ]
+  "name": "@dyrkow/prettier-config",
+  "version": "1.0.0",
+  "description": "Shared prettier config",
+  "main": "index.json",
+  "license": "MIT",
+  "repository": "https://github.com/dyrkow/lint.git",
+  "author": "dyrkow <webworkdeveloper@gmail.com> (dyrkow.ru)",
+  "peerDependencies": {
+    "prettier": "^2.5.1"
+  },
+  "keywords": [
+    "config",
+    "prettier",
+    "dyrkow"
+  ]
 }

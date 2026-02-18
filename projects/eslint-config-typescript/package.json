@@ -1,18 +1,18 @@
 {
-    "name": "@dyrkow/eslint-config-typescript",
-    "version": "1.0.7",
-    "main": "index.js",
-    "description": "Shared tslint config",
-    "peerDependencies": {
-        "typescript": "^4.9.4",
-        "eslint": "^8.25.0"
-    },
-    "license": "MIT",
-    "repository": "https://github.com/dyrkow/lint.git",
-    "author": "dyrkow <webworkdeveloper@gmail.com> (dyrkow.ru)",
-    "keywords": [
-        "config",
-        "typescript",
-        "dyrkow"
-    ]
+  "name": "@dyrkow/eslint-config-typescript",
+  "version": "1.0.7",
+  "main": "index.js",
+  "description": "Shared tslint config",
+  "peerDependencies": {
+    "typescript": "^4.9.4",
+    "eslint": "^8.25.0"
+  },
+  "license": "MIT",
+  "repository": "https://github.com/dyrkow/lint.git",
+  "author": "dyrkow <webworkdeveloper@gmail.com> (dyrkow.ru)",
+  "keywords": [
+    "config",
+    "typescript",
+    "dyrkow"
+  ]
 }
