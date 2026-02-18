@@ -9,12 +9,11 @@
   "license": "MIT",
   "scripts": {
     "changeset": "changeset",
-    "version": "changeset version",
+    "release:draft": "changeset version",
     "release": "changeset version && changeset publish"
   },
   "devDependencies": {
     "@changesets/cli": "^2.29.8",
     "nx": "^22.5.1"
-  },
-  "version": "1.0.0"
+  }
 }
