@@ -2,6 +2,9 @@
   "name": "@dyrkow/eslint-config-react",
   "version": "1.0.0",
   "main": "index.js",
+  "dependencies": {
+    "eslint-config-prettier": "^10.0.0"
+  },
   "license": "MIT",
   "peerDependencies": {
     "eslint": "^7.31.0"

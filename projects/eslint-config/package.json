@@ -3,6 +3,9 @@
   "version": "1.0.5",
   "description": "Shared eslint config",
   "main": "index.js",
+  "dependencies": {
+    "eslint-config-prettier": "^10.0.0"
+  },
   "peerDependencies": {
     "eslint": "^8.25.0"
   },
