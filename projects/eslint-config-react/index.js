@@ -1,6 +1,12 @@
 module.exports = {
     plugins: ["react"],
 
+    parserOptions: {
+        ecmaFeatures: {
+            jsx: true,
+        },
+    },
+
     // Rules
     rules: {
         "react/boolean-prop-naming": [
