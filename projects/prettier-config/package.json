@@ -4,7 +4,6 @@
     "description": "Shared prettier config",
     "main": "index.json",
     "scripts": {
-        "postinstall": "echo '\"@dyrkow/prettier-config\"' > $INIT_CWD/.prettierrc",
         "test": "echo 'No test specified'"
     },
     "license": "MIT",
