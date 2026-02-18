@@ -2,8 +2,8 @@
     "name": "@dyrkow/editor-config",
     "version": "1.0.0",
     "description": "Shared editor config",
+    "bin": "./bin/init.js",
     "scripts": {
-        "postinstall": "cp .editorconfig $INIT_CWD",
         "test": "echo 'No test specified'"
     },
     "license": "MIT",

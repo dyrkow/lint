@@ -1,11 +1,25 @@
 # @dyrkow/editor-config
 
-## Setup
+## Установка
+
+Чтобы поставить пакет:
 
 ```
-yarn add @dyrkow/editor-config -D
+yarn add @dyrkow/editor-config
 ```
 
-## Usage
+## Развёртывание
 
-Package automatically add `.editorconfig` file to your project
+Чтобы развернуть конфиг в проект — в корне проекта вызовите:
+
+```
+yarn editor-config
+```
+
+В проекте появится файл `.editorconfig`.
+
+Чтобы перезаписать существующий `.editorconfig`, используйте флаг `--force`:
+
+```
+yarn editor-config --force
+```
