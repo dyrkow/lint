@@ -3,13 +3,7 @@
     "version": "1.0.0",
     "main": "index.js",
     "license": "MIT",
-    "devDependencies": {
-        "@dyrkow/editor-config": "1.0.0"
-    },
     "peerDependencies": {
         "eslint": "^7.31.0"
-    },
-    "dependencies": {
-        "eslint-plugin-react": "^7.26.1"
     }
 }

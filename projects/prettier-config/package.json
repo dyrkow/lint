@@ -9,9 +9,6 @@
     "license": "MIT",
     "repository": "https://github.com/dyrkow/lint.git",
     "author": "dyrkow <webworkdeveloper@gmail.com> (dyrkow.ru)",
-    "devDependencies": {
-        "@dyrkow/editor-config": "1.0.0"
-    },
     "peerDependencies": {
         "prettier": "^2.5.1"
     },
