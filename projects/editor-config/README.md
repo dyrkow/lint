@@ -1,24 +1,24 @@
 # @dyrkow/editor-config
 
-## Установка
+## Installation
 
-Чтобы поставить пакет:
+Install the package:
 
 ```
 yarn add @dyrkow/editor-config
 ```
 
-## Развёртывание
+## Configuration
 
-Чтобы развернуть конфиг в проект — в корне проекта вызовите:
+To apply the config in your project, run from the project root:
 
 ```
 yarn editor-config
 ```
 
-В проекте появится файл `.editorconfig`.
+This creates a `.editorconfig` file in the project.
 
-Чтобы перезаписать существующий `.editorconfig`, используйте флаг `--force`:
+To overwrite an existing `.editorconfig`, use the `--force` flag:
 
 ```
 yarn editor-config --force

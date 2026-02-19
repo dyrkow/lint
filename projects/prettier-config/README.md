@@ -1,12 +1,16 @@
 # @dyrkow/prettier-config
 
-## Setup
+## Installation
 
-```
-yarn add prettier @dyrkow/prettier-config -D
+Install this package only. You do not need to install prettier separately — it is included.
+
+```bash
+pnpm add -D @dyrkow/prettier-config
+# or: yarn add @dyrkow/prettier-config -D
+# or: npm i -D @dyrkow/prettier-config
 ```
 
-## Usage
+## Configuration
 
 Connect the config in your project in one of the following ways:
 

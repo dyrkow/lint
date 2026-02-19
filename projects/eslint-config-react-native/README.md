@@ -2,13 +2,16 @@
 
 ESLint config for React Native: globals (`__DEV__`, etc.) and rules from `eslint-plugin-react-native`.
 
-## Setup
+## Installation
+
+Install the base config and this package (and @dyrkow/eslint-config-typescript if needed). List the base explicitly in your dependencies. You do not need to install eslint or plugins separately — they come from the base.
 
 ```bash
-yarn add eslint @dyrkow/eslint-config @dyrkow/eslint-config-react @dyrkow/eslint-config-react-native -D
+pnpm add -D @dyrkow/eslint-config @dyrkow/eslint-config-react-native
+# or with TypeScript: pnpm add -D @dyrkow/eslint-config @dyrkow/eslint-config-typescript @dyrkow/eslint-config-react-native
 ```
 
-## Usage
+## Configuration
 
 Use after base and React config. Add to `.eslintrc.json`:
 

@@ -6,12 +6,8 @@
   "license": "MIT",
   "repository": "https://github.com/dyrkow/lint.git",
   "author": "dyrkow <webworkdeveloper@gmail.com> (dyrkow.ru)",
-  "peerDependencies": {
-    "prettier": "^2.5.1"
+  "dependencies": {
+    "prettier": "^3.0.0"
   },
-  "keywords": [
-    "config",
-    "prettier",
-    "dyrkow"
-  ]
+  "keywords": ["config", "prettier", "dyrkow"]
 }

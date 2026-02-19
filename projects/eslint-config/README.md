@@ -1,14 +1,20 @@
-# @dyrkow/eslint-cofnig
+# @dyrkow/eslint-config
 
-## Setup
+Base ESLint config. Must be listed first in `extends`. Compatible with Prettier (extends `eslint-config-prettier`).
 
+## Installation
+
+Install only this package (and any other configs you need). You do not need to install eslint or plugins separately — they are included.
+
+```bash
+pnpm add -D @dyrkow/eslint-config
+# or: yarn add @dyrkow/eslint-config -D
+# or: npm i -D @dyrkow/eslint-config
 ```
-yarn add eslint @dyrkow/eslint-config -D
-```
 
-## Usage
+## Configuration
 
-Add this lines to your `.eslintrc.json`
+Add to your `.eslintrc.json`:
 ```
 {
     "extends": ["@dyrkow/eslint-config"]
