@@ -11,5 +11,6 @@
   },
   "license": "MIT",
   "repository": "https://github.com/dyrkow/lint.git",
+  "author": "dyrkow <webworkdeveloper@gmail.com> (dyrkow.ru)",
   "keywords": ["config", "eslint", "react-native", "dyrkow"]
 }

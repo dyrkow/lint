@@ -1,6 +1,7 @@
 {
   "name": "@dyrkow/eslint-config-react",
   "version": "1.1.0",
+  "description": "React eslint configuration",
   "main": "index.js",
   "dependencies": {
     "eslint-plugin-react": "^7.33.0",
@@ -9,5 +10,13 @@
   "peerDependencies": {
     "@dyrkow/eslint-config": "^1.1.0"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "repository": "https://github.com/dyrkow/lint.git",
+  "author": "dyrkow <webworkdeveloper@gmail.com> (dyrkow.ru)",
+  "keywords": [
+    "react",
+    "config",
+    "eslint",
+    "dyrkow"
+  ]
 }
