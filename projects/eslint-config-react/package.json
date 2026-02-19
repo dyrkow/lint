@@ -3,7 +3,8 @@
   "version": "1.1.0",
   "main": "index.js",
   "dependencies": {
-    "eslint-config-prettier": "^10.0.0"
+    "eslint-config-prettier": "^10.0.0",
+    "eslint-plugin-react-hooks": "^5.0.0"
   },
   "license": "MIT",
   "peerDependencies": {

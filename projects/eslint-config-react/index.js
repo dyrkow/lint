@@ -1,6 +1,6 @@
 module.exports = {
     extends: ['prettier'],
-    plugins: ['react'],
+    plugins: ['react', 'react-hooks'],
 
     parserOptions: {
         ecmaFeatures: {
@@ -72,6 +72,10 @@ module.exports = {
         'react/jsx-pascal-case': [2, { allowNamespace: true }],
         'react/jsx-props-no-multi-spaces': [2],
         'react/jsx-space-before-closing': ['always'],
-        'react/jsx-tag-spacing': [2]
+        'react/jsx-tag-spacing': [2],
+
+        // React Hooks
+        'react-hooks/rules-of-hooks': 'error',
+        'react-hooks/exhaustive-deps': 'warn'
     }
 };
