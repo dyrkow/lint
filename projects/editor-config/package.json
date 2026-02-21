@@ -1,9 +1,12 @@
 {
   "name": "@dyrkow/editor-config",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Shared editor config",
   "bin": "./bin/init.js",
-  "files": [".editorconfig", "bin"],
+  "files": [
+    ".editorconfig",
+    "bin"
+  ],
   "license": "MIT",
   "repository": "https://github.com/dyrkow/lint.git",
   "author": "dyrkow <webworkdeveloper@gmail.com> (dyrkow.ru)",
